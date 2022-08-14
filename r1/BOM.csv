@@ -1,0 +1,15 @@
+元件,类型,链接,单价,数量,总价
+"JH1,H_PWR_SELECT",2.54 单面针 1x3P,https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-10285290545.167.71b845aaisvjbT&id=560882047858&rn=8fc82bf51e56d20051cc99f14ed8446c&abbucket=6&skuId=3673702247222,0.04,1,0.04
+HSVO,2.54 单面针 2x3P,https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-21581912015.49.17df5535aBL4fJ&id=593411651824&rn=6c2348c53cb3ddf0d3bcf8629b362c23&abbucket=6&skuId=4091368548003,0.06,1,0.06
+Arduino UNO Pin,2.54 贯通针座,https://detail.tmall.com/item.htm?spm=a230r.1.14.189.2d2f438euKIS1h&id=570317324870&ns=1&abbucket=11,2.85,1,2.85
+"JI2C1,JI2C2",PH2.0 卧式贴1x4P,https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-10285290545.69.158545aaq9Efep&id=521870141416&rn=b18d5a37544ac7c8493df03409f57c18&abbucket=6&skuId=3108703802233,0.16,2,0.32
+"J5P1,J5P2,J5P3",PH2.0 卧式贴1x5P,https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-10285290545.69.158545aaq9Efep&id=521870141416&rn=b18d5a37544ac7c8493df03409f57c18&abbucket=6&skuId=3108703802234,0.18,3,0.54
+RESET,6x6x5 立式直插开关,https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-10285290545.181.174a45aakhZpHU&id=44324408840&rn=e817f1c5c51b6d90ecdea35e5c5d99bb&abbucket=6,0.03,1,0.03
+BUILDIN_LED,0805B,https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-10285290545.29.646345aatD3gHU&id=44186049371&rn=7e46e88e2d53eaa0e17b50c48e5c5209&abbucket=6,0.06,1,0.06
+POWER_LED,0805G,https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-10285290545.25.646345aatD3gHU&id=44124439317&rn=7e46e88e2d53eaa0e17b50c48e5c5209&abbucket=6,0.0725,1,0.0725
+"R1,R2",0805 200欧,https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-10285290545.54.25e245aayGyRAC&id=44130358803&rn=2c55c561b6db603c926e19e55503cf20&abbucket=6,0.03,2,0.06
+跳线帽,2.54 跳线帽,https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-10285290545.54.5d5245aa1Fkfzv&id=549008155133&rn=2233238af7286118eaa2fef47a56b7d1&abbucket=6&skuId=3498518286993,0.02,1,0.02
+"HI2C1,HI2C2,HP1,HP2",PH2.0 直针座 1x4P,https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-10285290545.57.43c645aaZdTMYO&id=523049741895&rn=eb927367470c4855c88b0a14687988fe&abbucket=6&skuId=3113810478469,0.04,4,0.16
+"HD12,HA1,HA2,HA3,HA6",PH2.0 直针座 1x3P,https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-10285290545.57.43c645aaZdTMYO&id=523049741895&rn=eb927367470c4855c88b0a14687988fe&abbucket=6&skuId=3113810478468,0.03,5,0.15
+,,,,,
+,,,,合计,4.3625
